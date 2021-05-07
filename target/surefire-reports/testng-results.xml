@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61611" started-at="2021-05-07T14:51:28 CDT" finished-at="2021-05-07T14:52:29 CDT">
+    <groups>
+    </groups>
+    <test name="GlobalIDTests" duration-ms="61611" started-at="2021-05-07T14:51:28 CDT" finished-at="2021-05-07T14:52:29 CDT">
+      <class name="GlobalID.WordPress.MyBlogTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="beforeTest" is-config="true" duration-ms="3724" started-at="2021-05-07T14:51:28 CDT" finished-at="2021-05-07T14:51:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestBlogPageOpens()[pri:1, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="TestBlogPageOpens" duration-ms="127" started-at="2021-05-07T14:51:31 CDT" finished-at="2021-05-07T14:51:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBlogPageOpens -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="afterTest" is-config="true" duration-ms="4158" started-at="2021-05-07T14:51:32 CDT" finished-at="2021-05-07T14:51:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="beforeTest" is-config="true" duration-ms="3062" started-at="2021-05-07T14:51:36 CDT" finished-at="2021-05-07T14:51:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestLatestBlogPostIsCorrect()[pri:2, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="TestLatestBlogPostIsCorrect" duration-ms="125" started-at="2021-05-07T14:51:39 CDT" finished-at="2021-05-07T14:51:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLatestBlogPostIsCorrect -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="afterTest" is-config="true" duration-ms="3665" started-at="2021-05-07T14:51:39 CDT" finished-at="2021-05-07T14:51:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="beforeTest" is-config="true" duration-ms="2512" started-at="2021-05-07T14:51:43 CDT" finished-at="2021-05-07T14:51:45 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestCategoriesAreClickable()[pri:3, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="TestCategoriesAreClickable" duration-ms="2911" started-at="2021-05-07T14:51:45 CDT" finished-at="2021-05-07T14:51:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCategoriesAreClickable -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="afterTest" is-config="true" duration-ms="3717" started-at="2021-05-07T14:51:48 CDT" finished-at="2021-05-07T14:51:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="beforeTest" is-config="true" duration-ms="2608" started-at="2021-05-07T14:51:52 CDT" finished-at="2021-05-07T14:51:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestPostByCategory()[pri:4, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="TestPostByCategory" duration-ms="2645" started-at="2021-05-07T14:51:54 CDT" finished-at="2021-05-07T14:51:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPostByCategory -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="afterTest" is-config="true" duration-ms="3730" started-at="2021-05-07T14:51:57 CDT" finished-at="2021-05-07T14:52:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="beforeTest" is-config="true" duration-ms="3004" started-at="2021-05-07T14:52:01 CDT" finished-at="2021-05-07T14:52:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestOpenBlogPost()[pri:5, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="TestOpenBlogPost" duration-ms="2297" started-at="2021-05-07T14:52:04 CDT" finished-at="2021-05-07T14:52:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOpenBlogPost -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="afterTest" is-config="true" duration-ms="3677" started-at="2021-05-07T14:52:06 CDT" finished-at="2021-05-07T14:52:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="beforeTest" is-config="true" duration-ms="2064" started-at="2021-05-07T14:52:10 CDT" finished-at="2021-05-07T14:52:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestCommentBlogPost()[pri:6, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="TestCommentBlogPost" duration-ms="13839" started-at="2021-05-07T14:52:12 CDT" finished-at="2021-05-07T14:52:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCommentBlogPost -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:GlobalID.WordPress.MyBlogTests@6f1fba17]" name="afterTest" is-config="true" duration-ms="3707" started-at="2021-05-07T14:52:26 CDT" finished-at="2021-05-07T14:52:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- GlobalID.WordPress.MyBlogTests -->
+    </test> <!-- GlobalIDTests -->
+  </suite> <!-- Suite -->
+</testng-results>
